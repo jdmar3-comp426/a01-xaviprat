@@ -1,0 +1,60 @@
+body {
+    background-color: whitesmoke;
+}
+
+    h1{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+
+    h2{
+    color: darkblue;
+    font-size: medium;
+    text-align: left;
+    }
+
+    h4{
+        text-align: center;
+    }
+
+    h5{
+        color: black;
+    }
+    h6{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h3{
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    p{
+        color: black;
+        border:1px solid black;
+    }
+
+    li{
+    color: black;
+}
+img{
+    height: 500px;
+    width: 1000px;
+}
+
+*myThoughts{
+    color: gray;
+}
+li a{
+    color:tomato;
+}
+a:hover{
+    background-color: green;
+}
+
+.image{
+    color: yellow;
+}
+
+*{
+    border:1px solid wheat;
+}
